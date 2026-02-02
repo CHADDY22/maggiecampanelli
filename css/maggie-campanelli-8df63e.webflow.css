@@ -347,6 +347,10 @@
   grid-row-gap: 40px;
 }
 
+.text-grouping.hidden {
+  display: none;
+}
+
 .bold-text {
   line-height: 34px;
 }
