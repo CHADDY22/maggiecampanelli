@@ -348,7 +348,7 @@
 }
 
 .text-grouping.hidden {
-  display: none;
+  display: block;
 }
 
 .bold-text {
@@ -567,6 +567,10 @@
 
 .slide-3:hover {
   filter: none;
+}
+
+.link-9 {
+  color: var(--white);
 }
 
 @media screen and (max-width: 991px) {
